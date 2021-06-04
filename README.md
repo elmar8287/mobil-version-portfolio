@@ -17,7 +17,7 @@ This is the first milestone in the process of creating our portfolio website.
 
 👤 **Elmar Abdulkarimov**
 
-- GitHub: [@usmansbk](https://github.com/elmar8287)
+- GitHub: [@elmar8287](https://github.com/elmar8287)
 
 ## 🤝 Contributing
 
