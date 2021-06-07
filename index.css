@@ -237,6 +237,19 @@ p {
   margin: 20px 0 20px 0;
 }
 
+.article 
+{
+  clear:both;
+}
+
+.tags {
+  display:block;
+}
+
+.tags li {
+  float: left;
+}
+
 .card {
   background-color: #fff;
   border: 1px solid #dfe1e6;
