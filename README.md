@@ -19,6 +19,12 @@ This is the first milestone in the process of creating our portfolio website.
 
 - GitHub: [@elmar8287](https://github.com/elmar8287)
 
+
+:bust_in_silhouette: **Author2**
+
+[GitHub]( https://github.com/SimonGrchevski )
+[LinkedIn]( https://www.linkedin.com/in/simon-grchevski-682935209/ )
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
