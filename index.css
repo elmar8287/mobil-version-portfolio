@@ -327,48 +327,63 @@ p {
   flex-grow: 1;
 }
 
+.form-bg {
+  background: url(./images/contact-form-\ background-.svg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding: 50px 0;
+}
+
+.form-content {
+  width: 80%;
+  margin: 0 auto;
+  text-align:center;
+}
+
+.form-content h2 {
+  margin-bottom: 10px;
+}
+.form-content header {
+  margin-bottom: 50px;
+}
+
 form{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 80%;
-  margin: 0 auto;
+  flex-wrap:wrap;
 }
 
-.form h1,
-.form p{
-  text-align: center;
-  align-items: center;
+.form-content h2,
+.form-content p{
   color: #FFFFFF;
 }
 
-.form p{
-  margin: 20px 0 30px 0;
-  width: 80%;
-  align-content: center;
-  
-}
-
-input{
-
-  background: #FFFFFF;
+input {
   border: 1px solid #CFD8DC;
   border-radius: 8px;
   height: 50px;
   margin-bottom: 15px;
-
 }
 
-.submit{
-  align-items: center;
-  text-align: center;
+.submit {
   letter-spacing: 0.03em;
   color: #6070FF;
-  width: 108px;
-  height: 24px;
+  width: 150px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 8%;
+  border:1px solid gray;
+  font-size: 17px;
 }
 
-.form{
-  background: #6070FF;
+textarea,
+.submit,
+input {
+  background-color: #fff;
+}
 
+textarea,
+input {
+  color:black;
 }
