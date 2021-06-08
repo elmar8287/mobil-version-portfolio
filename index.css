@@ -348,6 +348,7 @@ p {
 .form-content h2 {
   margin-bottom: 10px;
 }
+
 .form-content header {
   margin-bottom: 50px;
 }
@@ -361,11 +362,11 @@ form {
 
 .form-content h2,
 .form-content p {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 input {
-  border: 1px solid #CFD8DC;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
   height: 50px;
   margin-bottom: 15px;
@@ -373,7 +374,7 @@ input {
 
 .submit {
   letter-spacing: 0.03em;
-  color: #6070FF;
+  color: #6070ff;
   width: 150px;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -383,14 +384,14 @@ input {
   font-size: 17px;
 }
 
-.submit:hover {
-  color: #1030be;
-}
-
 textarea,
 .submit,
 input {
   background-color: #fff;
+}
+
+.submit:hover {
+  color: #1030be;
 }
 
 textarea,
